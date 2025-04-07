@@ -21,7 +21,7 @@ This repository collects open developer, service & AI portal building blocks lev
 ## Vue.js
 *[Vue.js](https://vuejs.org) is an approachable, performant and versatile framework for building web user interfaces.*
 ### Quickstart Samples
-- Apigee X Vue.js Quickstart - *WIP* - the Apigee X Vuejs Quickstart is currently in progress.
+- Apigee X Vue.js Quickstart - *WIP* - the Apigee X Vue.js Quickstart is currently in progress.
 ## Svelte
 *[Svelte](https://svelte.dev) is a UI framework that uses a compiler to let you write breathtakingly concise components that do minimal work in the browser, using languages you already know — HTML, CSS and JavaScript.*
 - Apigee X Svelte Quickstart - *WIP* - the Apigee X Svelte Quickstart is currently in progress.
