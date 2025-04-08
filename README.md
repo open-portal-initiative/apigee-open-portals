@@ -10,6 +10,7 @@ This repository collects open developer, service & AI portal building blocks lev
 *[Drupal](https://drupal.org) is a fully composable CMS that allows you to design a digital experience to your vision.*
 ### Modules
 - [Apigee Drupal Modules](https://github.com/apigee/apigee-edge-drupal) - the Apigee Drupal Modules support **Drupal 10.1.x** or higher and PHP 8.1, and supports the integration to both the Apigee X & Edge API layer for API management features in Drupal CMS sites.
+- [Key Apigee](https://www.drupal.org/project/key_apigee) – a foundational Drupal module designed for building niche integrations with Apigee Management APIs. It works alongside the [Key module](https://www.drupal.org/project/key) to securely store and manage credentials for the Apigee Management API directly within your Drupal site. This enables secure, flexible authentication and seamless access to Apigee’s capabilities from Drupal.
 ### Quickstart Samples
 - [Apigee Drupal Kickstart](https://www.drupal.org/docs/contributed-modules/apigee-developer-portal-kickstart/get-started-with-kickstart) - a Drupal installation profile and installer for spinning up an Apigee Drupal sample site.
 ### Videos
