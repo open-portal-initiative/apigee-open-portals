@@ -18,7 +18,7 @@ This repository collects open developer, service & AI portal building blocks lev
 ## React
 *[React](https://react.dev/) lets you build user interfaces out of individual pieces called components.*
 ### Quickstart Samples
-- Apigee X React Quickstart - *WIP* - the Apigee X React Quickstart is currently in progress.
+- [Apigee X React Sample](https://github.com/open-portal-initiative/apigee-react-sample) - a sample portal using React & Next.js with the shadcn and Magic UI components.
 ## Vue.js
 *[Vue.js](https://vuejs.org) is an approachable, performant and versatile framework for building web user interfaces.*
 ### Quickstart Samples
@@ -26,4 +26,4 @@ This repository collects open developer, service & AI portal building blocks lev
 ## Svelte
 *[Svelte](https://svelte.dev) is a UI framework that uses a compiler to let you write breathtakingly concise components that do minimal work in the browser, using languages you already know — HTML, CSS and JavaScript.*
 - Apigee X Svelte Quickstart - *WIP* - the Apigee X Svelte Quickstart is currently in progress.
-- [Apigee Marketplace Sample Project](https://github.com/api-integration-samples/apigee-marketplace-sample) - a sample marketplace web app for API, data & AI producers and consumers to publish and subscribe to products.
+- [Apigee Marketplace Sample Project](https://github.com/open-portal-initiative/apigee-svelte-sample) - a sample marketplace web app for API, data & AI producers and consumers to publish and subscribe to products.
