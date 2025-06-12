@@ -28,7 +28,7 @@ This repository collects open developer, service & AI portal building blocks lev
 ### Quickstart Samples
 - Apigee X Vue.js Quickstart - *WIP* - the Apigee X Vue.js Quickstart is currently in progress.
 ## Laravel
-*[Laravel](https://laravel.com/) provides a complete ecosystem for web artisans. Our open source PHP framework, products, packages, and starter kits offer everything you need to build, deploy, and monitor web applications.
+- [Laravel](https://laravel.com/) provides a complete ecosystem for web artisans. The open source PHP framework, products, packages, and starter kits offer everything you need to build, deploy, and monitor web applications.
 ### Quickstart Samples
 - Apigee Laravel Quickstart - *WIP* - the Apigee X Laravel Quickstart is currently in progress.
 ## Svelte
