@@ -19,10 +19,18 @@ This repository collects open developer, service & AI portal building blocks lev
 *[React](https://react.dev/) lets you build user interfaces out of individual pieces called components.*
 ### Quickstart Samples
 - [Apigee X React Sample](https://github.com/open-portal-initiative/apigee-react-sample) - a sample portal using React & Next.js with the shadcn and Magic UI components.
+## htmx
+* [htmx](https://htmx.org/) is a lightweight html templating library for vanilla HTML sites.
+### Quickstart Samples
+- Apigee htmx Quickstart - *WIP* - the Apigee quickstart for htmx is currently in progress.
 ## Vue.js
 *[Vue.js](https://vuejs.org) is an approachable, performant and versatile framework for building web user interfaces.*
 ### Quickstart Samples
 - Apigee X Vue.js Quickstart - *WIP* - the Apigee X Vue.js Quickstart is currently in progress.
+## Laravel
+*[Laravel](https://laravel.com/) provides a complete ecosystem for web artisans. Our open source PHP framework, products, packages, and starter kits offer everything you need to build, deploy, and monitor web applications.
+### Quickstart Samples
+- Apigee Laravel Quickstart - *WIP* - the Apigee X Laravel Quickstart is currently in progress.
 ## Svelte
 *[Svelte](https://svelte.dev) is a UI framework that uses a compiler to let you write breathtakingly concise components that do minimal work in the browser, using languages you already know — HTML, CSS and JavaScript.*
 - Apigee X Svelte Quickstart - *WIP* - the Apigee X Svelte Quickstart is currently in progress.
