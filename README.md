@@ -17,7 +17,7 @@ This repository collects open developer, service & AI portal building blocks lev
 - [Apigee X React Sample](https://github.com/open-portal-initiative/apigee-react-sample) - a sample portal using React & Next.js with the shadcn and Magic UI components.
 ## htmx
 - *[htmx](https://htmx.org/) is a lightweight html templating library for vanilla HTML sites.*
-- Apigee htmx Quickstart - *WIP* - the Apigee quickstart for htmx is currently in progress.
+- [Apigee htmx Quickstart](https://github.com/open-portal-initiative/apigee-htmx-quickstart) - A small quickstart portal that uses htmx and tailwind to show some basic portal app management functions.
 ## Vue.js
 - *[Vue.js](https://vuejs.org) is an approachable, performant and versatile framework for building web user interfaces.*
 - Apigee X Vue.js Quickstart - *WIP* - the Apigee X Vue.js Quickstart is currently in progress.
